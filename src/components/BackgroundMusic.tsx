@@ -74,7 +74,7 @@ export default function BackgroundMusic() {
 
   return (
     <>
-      <audio ref={audioRef} src={bgMusic.src} loop preload="auto" type="audio/mpeg" />
+      <audio ref={audioRef} src={bgMusic.src} loop preload="auto" />
 
       <button
         type="button"
