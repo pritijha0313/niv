@@ -228,9 +228,3 @@ export const birthdaySurprise = {
     "Aaj finally woh din aa gaya jiska hum wait kar rahe the! 🥹 Meri princess aaj 3 saal ki ho gayi! Jab tu pehli baar aayi thi, maine socha tha duniya ki sabse khoobsurat cheez meri godi mein hai — aur aaj bhi wahi lagta hai. Tu hasi, tu drama, tu nakhre, tu pyaar — sab kuch meri life ka sabse special hissa hai. Cake khao, khelo, haso, aur jaan lo — Masi hamesha tere saath hai. Yeh letter sirf aaj ke liye — 21 September, tera din, meri jaan ka din! 🤗💖",
   signOff: "I love you meri Niv — aaj aur hamesha! 🎂👑💕 — Teri Masi",
 }
-
-/** Background song — file rakho: public/music/song.mp3 */
-export const bgMusic = {
-  src: "/music/song.mp3",
-  title: "Niv ke liye 🎵",
-}

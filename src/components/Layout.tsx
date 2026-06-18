@@ -1,6 +1,5 @@
 import { Link, useLocation } from "react-router-dom"
 import { memories } from "../data/story"
-import BackgroundMusic from "./BackgroundMusic"
 import CuteBuddy from "./CuteBuddy"
 import CursorTeddy from "./CursorTeddy"
 import FloatingDecor from "./FloatingDecor"
@@ -61,7 +60,6 @@ export default function Layout({ children }: { children: React.ReactNode }) {
       </footer>
 
       <CursorTeddy />
-      <BackgroundMusic />
       <CuteBuddy />
     </div>
   )
